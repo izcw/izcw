@@ -12,10 +12,7 @@
 <br/>
 
 ## 今年汇总
-<div align="center" >
 
 ![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=izcw)
-
-</div>
 
 

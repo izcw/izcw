@@ -1,35 +1,13 @@
 <div align="center" >
 
-[![张成威](https://www.zhangchengwei.work/images/github/home.png "Hi, I'm Cheng Wei")](https://www.zhangchengwei.work/)
+<a href="https://www.zhangchengwei.work"><img src="https://picserver.duoyu.link/picfile/image/202306/07-1686098627954.png" width="100%" alt="Hi, I'm Cheng Wei" /></a>
 
 </div>
 
 # Hi 我是张成威 
-
-### 「个人介绍」
-
-```
-前端开发者
-```
-
-### 「业务&项目」
-
-```
-1. 项目（1）
-2. 项目（2）
-```
-
-### 「工作」
-
-```
-前端开发在职
-```
-
-### 「文章输出」
-
-
-* 博客地址 [zhangchengwei.work](https://zhangchengwei.work "张成威的个人网站")。
-
+* 🐸 关于：我是****[]... <a href="https://www.zhangchengwei.work" target="_blank" rel="https://www.zhangchengwei.work" title="张成威的个人网站">博客</a>
+* 🎨 作品：[**] [**] [**]...
+* 🧱 经历：[**] [**] [**]...
 
 <br/>
 

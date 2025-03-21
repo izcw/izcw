@@ -4,15 +4,6 @@
 
 </div>
 
-## Hi 我是张成威 
-* 🐸 关于：我是****[]... <a href="https://www.zhangchengwei.work" target="_blank" rel="https://www.zhangchengwei.work" title="张成威的个人网站">博客</a>
-* 🎨 作品：[**] [**] [**]...
-* 🧱 经历：[**] [**] [**]...
+知不足而奋进
 
-<br/>
-
-## 今年汇总
-
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=izcw)
-
-
+望远山而前行
